@@ -20,6 +20,7 @@ The first project I'm doing is a complicated one, at least for me is Kubernetes 
 
 
 <img width="496" height="438" alt="image" src="https://github.com/user-attachments/assets/e1576aa0-bf1c-44fb-881d-486f041aed24" />
+
 **Annotations:** The pre_tasks simply updates the distro and the cache, we're only focusing on Debian Servers for now until the playbook is successful then I will divert off to test out with other distros. The kube_deploy_playbook is basically finished since all the work is done via roles which care called out under roles. 
 
 
